@@ -1,0 +1,7 @@
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\doc for TO\doc for TO\bin\Debug\doc for TO.exe.config
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\doc for TO\doc for TO\obj\Debug\doc for TO.csprojResolveAssemblyReference.cache
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\doc for TO\doc for TO\obj\Debug\doc for TO.csproj.ResolveComReference.cache
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\doc for TO\doc for TO\bin\Debug\doc for TO.exe
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\doc for TO\doc for TO\bin\Debug\doc for TO.pdb
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\doc for TO\doc for TO\obj\Debug\doc for TO.exe
+C:\Users\ZHUCHKOVSKIJ_MYA\Documents\Visual Studio 2012\Projects\doc for TO\doc for TO\obj\Debug\doc for TO.pdb
